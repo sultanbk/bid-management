@@ -1,0 +1,98 @@
+{
+  "bid_id": "BID-A-001",
+  "customer_name": "Riverside Regional Hospital",
+  "customer_segment": "hospital",
+  "raw_document_note": "Simulated extraction from a messy customer PDF/Excel submission.",
+  "items": [
+    {
+      "raw_description": "white napkins, 1000ct",
+      "quantity": 20,
+      "category_hint": "Disposables & Paper Goods"
+    },
+    {
+      "raw_description": "12oz disposable cups",
+      "quantity": 15,
+      "category_hint": "Disposables & Paper Goods"
+    },
+    {
+      "raw_description": "trash bags, 55 gallon",
+      "quantity": 25,
+      "category_hint": "Disposables & Paper Goods"
+    },
+    {
+      "raw_description": "boneless skinless chicken breast, fresh",
+      "quantity": 60,
+      "category_hint": "Proteins"
+    },
+    {
+      "raw_description": "atlantic salmon fillets",
+      "quantity": 15,
+      "category_hint": "Proteins"
+    },
+    {
+      "raw_description": "romaine lettuce heads",
+      "quantity": 30,
+      "category_hint": "Produce"
+    },
+    {
+      "raw_description": "roma tomatoes, case",
+      "quantity": 25,
+      "category_hint": "Produce"
+    },
+    {
+      "raw_description": "yellow onions, 50lb",
+      "quantity": 20,
+      "category_hint": "Produce"
+    },
+    {
+      "raw_description": "russet potatoes bulk",
+      "quantity": 35,
+      "category_hint": "Produce"
+    },
+    {
+      "raw_description": "long grain white rice, 50lb",
+      "quantity": 20,
+      "category_hint": "Dry Goods & Pantry"
+    },
+    {
+      "raw_description": "all purpose flour",
+      "quantity": 15,
+      "category_hint": "Dry Goods & Pantry"
+    },
+    {
+      "raw_description": "penne pasta, dry",
+      "quantity": 18,
+      "category_hint": "Dry Goods & Pantry"
+    },
+    {
+      "raw_description": "vegetable cooking oil, jug",
+      "quantity": 12,
+      "category_hint": "Dry Goods & Pantry"
+    },
+    {
+      "raw_description": "shredded mozzarella cheese",
+      "quantity": 25,
+      "category_hint": "Dairy & Refrigerated"
+    },
+    {
+      "raw_description": "large grade A eggs",
+      "quantity": 30,
+      "category_hint": "Dairy & Refrigerated"
+    },
+    {
+      "raw_description": "whole milk, gallon",
+      "quantity": 22,
+      "category_hint": "Dairy & Refrigerated"
+    },
+    {
+      "raw_description": "aluminum sheet pans",
+      "quantity": 10,
+      "category_hint": "Kitchen Equipment & Smallwares"
+    },
+    {
+      "raw_description": "stainless mixing bowl set",
+      "quantity": 4,
+      "category_hint": "Kitchen Equipment & Smallwares"
+    }
+  ]
+}

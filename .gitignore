@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# VM / SSH Keys (VERY IMPORTANT)
+*.pem
+*.key
+
+# Python cache files
+*.pyo
+
+# Project docs archive
+project-docs/docs.zip
+
+# OS files
+.DS_Store
+Thumbs.db

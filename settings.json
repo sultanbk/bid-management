@@ -1,0 +1,15 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:20128/v1",
+    "ANTHROPIC_AUTH_TOKEN": "sk-490be10a4c958ccb-49122b-745bb66d",
+    "ANTHROPIC_API_KEY": "",
+    "CLAUDE_CODE_CERT_STORE": "system",
+    "NODE_USE_SYSTEM_CA": "1",
+    "BUN_USE_OPENSSL_CA": "1",
+    "dangerously_disable_ssl_verification": true,
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "auto",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "auto",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "auto"
+  },
+  "theme": "dark"
+}

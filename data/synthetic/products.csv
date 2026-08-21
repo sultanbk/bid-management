@@ -1,0 +1,601 @@
+sku,name,category,spec
+SYS-10000,"Value Select Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10001,"Value Select Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10002,"Value Select Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10003,"Value Select Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10004,"Value Select Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10005,"Value Select Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10006,"Value Select Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10007,"Value Select Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10008,"Value Select Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10009,"Value Select Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10010,Value Select Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10011,Value Select Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10012,Value Select Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10013,Value Select Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10014,"Value Select Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10015,"Value Select Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10016,Value Select Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10017,Value Select Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10018,"Value Select Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10019,"Value Select Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10020,"Value Select Ground Beef, 80/20",Proteins,10lb tube
+SYS-10021,"Value Select Ground Beef, 80/20",Proteins,40lb case
+SYS-10022,"Value Select Pork Loin, Boneless",Proteins,30lb case
+SYS-10023,"Value Select Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10024,"Value Select Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10025,"Value Select Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10026,"Value Select Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10027,"Value Select Turkey Breast, Sliced",Proteins,10lb case
+SYS-10028,"Value Select Bacon, Sliced",Proteins,15lb case
+SYS-10029,"Value Select Deli Ham, Sliced",Proteins,10lb case
+SYS-10030,Value Select Romaine Lettuce,Produce,case of 24 heads
+SYS-10031,Value Select Roma Tomatoes,Produce,25lb case
+SYS-10032,Value Select Yellow Onions,Produce,50lb bag
+SYS-10033,Value Select Russet Potatoes,Produce,50lb bag
+SYS-10034,"Value Select Bell Peppers, Mixed",Produce,11lb case
+SYS-10035,Value Select Bananas,Produce,40lb case
+SYS-10036,"Value Select Carrots, Whole",Produce,25lb bag
+SYS-10037,Value Select Avocados,Produce,case of 48
+SYS-10038,Value Select Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10039,Value Select All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10040,"Value Select Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10041,Value Select Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10042,Value Select Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10043,Value Select Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10044,Value Select Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10045,"Value Select Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10046,Value Select Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10047,Value Select Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10048,Value Select Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10049,"Value Select Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10050,"Value Select Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10051,Value Select Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10052,Value Select Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10053,"Value Select Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10054,"Value Select Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10055,"Value Select Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10056,Value Select Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10057,Value Select Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10058,Value Select Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10059,"Chef's Reserve Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10060,"Chef's Reserve Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10061,"Chef's Reserve Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10062,"Chef's Reserve Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10063,"Chef's Reserve Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10064,"Chef's Reserve Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10065,"Chef's Reserve Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10066,"Chef's Reserve Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10067,"Chef's Reserve Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10068,"Chef's Reserve Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10069,Chef's Reserve Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10070,Chef's Reserve Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10071,Chef's Reserve Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10072,Chef's Reserve Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10073,"Chef's Reserve Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10074,"Chef's Reserve Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10075,Chef's Reserve Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10076,Chef's Reserve Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10077,"Chef's Reserve Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10078,"Chef's Reserve Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10079,"Chef's Reserve Ground Beef, 80/20",Proteins,10lb tube
+SYS-10080,"Chef's Reserve Ground Beef, 80/20",Proteins,40lb case
+SYS-10081,"Chef's Reserve Pork Loin, Boneless",Proteins,30lb case
+SYS-10082,"Chef's Reserve Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10083,"Chef's Reserve Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10084,"Chef's Reserve Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10085,"Chef's Reserve Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10086,"Chef's Reserve Turkey Breast, Sliced",Proteins,10lb case
+SYS-10087,"Chef's Reserve Bacon, Sliced",Proteins,15lb case
+SYS-10088,"Chef's Reserve Deli Ham, Sliced",Proteins,10lb case
+SYS-10089,Chef's Reserve Romaine Lettuce,Produce,case of 24 heads
+SYS-10090,Chef's Reserve Roma Tomatoes,Produce,25lb case
+SYS-10091,Chef's Reserve Yellow Onions,Produce,50lb bag
+SYS-10092,Chef's Reserve Russet Potatoes,Produce,50lb bag
+SYS-10093,"Chef's Reserve Bell Peppers, Mixed",Produce,11lb case
+SYS-10094,Chef's Reserve Bananas,Produce,40lb case
+SYS-10095,"Chef's Reserve Carrots, Whole",Produce,25lb bag
+SYS-10096,Chef's Reserve Avocados,Produce,case of 48
+SYS-10097,Chef's Reserve Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10098,Chef's Reserve All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10099,"Chef's Reserve Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10100,Chef's Reserve Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10101,Chef's Reserve Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10102,Chef's Reserve Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10103,Chef's Reserve Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10104,"Chef's Reserve Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10105,Chef's Reserve Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10106,Chef's Reserve Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10107,Chef's Reserve Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10108,"Chef's Reserve Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10109,"Chef's Reserve Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10110,Chef's Reserve Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10111,Chef's Reserve Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10112,"Chef's Reserve Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10113,"Chef's Reserve Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10114,"Chef's Reserve Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10115,Chef's Reserve Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10116,Chef's Reserve Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10117,Chef's Reserve Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10118,"Sysco Classic Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10119,"Sysco Classic Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10120,"Sysco Classic Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10121,"Sysco Classic Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10122,"Sysco Classic Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10123,"Sysco Classic Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10124,"Sysco Classic Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10125,"Sysco Classic Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10126,"Sysco Classic Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10127,"Sysco Classic Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10128,Sysco Classic Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10129,Sysco Classic Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10130,Sysco Classic Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10131,Sysco Classic Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10132,"Sysco Classic Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10133,"Sysco Classic Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10134,Sysco Classic Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10135,Sysco Classic Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10136,"Sysco Classic Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10137,"Sysco Classic Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10138,"Sysco Classic Ground Beef, 80/20",Proteins,10lb tube
+SYS-10139,"Sysco Classic Ground Beef, 80/20",Proteins,40lb case
+SYS-10140,"Sysco Classic Pork Loin, Boneless",Proteins,30lb case
+SYS-10141,"Sysco Classic Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10142,"Sysco Classic Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10143,"Sysco Classic Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10144,"Sysco Classic Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10145,"Sysco Classic Turkey Breast, Sliced",Proteins,10lb case
+SYS-10146,"Sysco Classic Bacon, Sliced",Proteins,15lb case
+SYS-10147,"Sysco Classic Deli Ham, Sliced",Proteins,10lb case
+SYS-10148,Sysco Classic Romaine Lettuce,Produce,case of 24 heads
+SYS-10149,Sysco Classic Roma Tomatoes,Produce,25lb case
+SYS-10150,Sysco Classic Yellow Onions,Produce,50lb bag
+SYS-10151,Sysco Classic Russet Potatoes,Produce,50lb bag
+SYS-10152,"Sysco Classic Bell Peppers, Mixed",Produce,11lb case
+SYS-10153,Sysco Classic Bananas,Produce,40lb case
+SYS-10154,"Sysco Classic Carrots, Whole",Produce,25lb bag
+SYS-10155,Sysco Classic Avocados,Produce,case of 48
+SYS-10156,Sysco Classic Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10157,Sysco Classic All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10158,"Sysco Classic Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10159,Sysco Classic Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10160,Sysco Classic Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10161,Sysco Classic Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10162,Sysco Classic Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10163,"Sysco Classic Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10164,Sysco Classic Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10165,Sysco Classic Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10166,Sysco Classic Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10167,"Sysco Classic Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10168,"Sysco Classic Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10169,Sysco Classic Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10170,Sysco Classic Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10171,"Sysco Classic Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10172,"Sysco Classic Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10173,"Sysco Classic Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10174,Sysco Classic Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10175,Sysco Classic Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10176,Sysco Classic Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10177,"Sysco Imperial Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10178,"Sysco Imperial Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10179,"Sysco Imperial Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10180,"Sysco Imperial Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10181,"Sysco Imperial Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10182,"Sysco Imperial Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10183,"Sysco Imperial Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10184,"Sysco Imperial Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10185,"Sysco Imperial Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10186,"Sysco Imperial Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10187,Sysco Imperial Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10188,Sysco Imperial Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10189,Sysco Imperial Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10190,Sysco Imperial Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10191,"Sysco Imperial Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10192,"Sysco Imperial Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10193,Sysco Imperial Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10194,Sysco Imperial Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10195,"Sysco Imperial Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10196,"Sysco Imperial Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10197,"Sysco Imperial Ground Beef, 80/20",Proteins,10lb tube
+SYS-10198,"Sysco Imperial Ground Beef, 80/20",Proteins,40lb case
+SYS-10199,"Sysco Imperial Pork Loin, Boneless",Proteins,30lb case
+SYS-10200,"Sysco Imperial Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10201,"Sysco Imperial Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10202,"Sysco Imperial Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10203,"Sysco Imperial Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10204,"Sysco Imperial Turkey Breast, Sliced",Proteins,10lb case
+SYS-10205,"Sysco Imperial Bacon, Sliced",Proteins,15lb case
+SYS-10206,"Sysco Imperial Deli Ham, Sliced",Proteins,10lb case
+SYS-10207,Sysco Imperial Romaine Lettuce,Produce,case of 24 heads
+SYS-10208,Sysco Imperial Roma Tomatoes,Produce,25lb case
+SYS-10209,Sysco Imperial Yellow Onions,Produce,50lb bag
+SYS-10210,Sysco Imperial Russet Potatoes,Produce,50lb bag
+SYS-10211,"Sysco Imperial Bell Peppers, Mixed",Produce,11lb case
+SYS-10212,Sysco Imperial Bananas,Produce,40lb case
+SYS-10213,"Sysco Imperial Carrots, Whole",Produce,25lb bag
+SYS-10214,Sysco Imperial Avocados,Produce,case of 48
+SYS-10215,Sysco Imperial Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10216,Sysco Imperial All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10217,"Sysco Imperial Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10218,Sysco Imperial Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10219,Sysco Imperial Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10220,Sysco Imperial Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10221,Sysco Imperial Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10222,"Sysco Imperial Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10223,Sysco Imperial Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10224,Sysco Imperial Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10225,Sysco Imperial Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10226,"Sysco Imperial Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10227,"Sysco Imperial Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10228,Sysco Imperial Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10229,Sysco Imperial Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10230,"Sysco Imperial Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10231,"Sysco Imperial Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10232,"Sysco Imperial Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10233,Sysco Imperial Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10234,Sysco Imperial Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10235,Sysco Imperial Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10236,"Sysco Reliance Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10237,"Sysco Reliance Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10238,"Sysco Reliance Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10239,"Sysco Reliance Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10240,"Sysco Reliance Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10241,"Sysco Reliance Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10242,"Sysco Reliance Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10243,"Sysco Reliance Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10244,"Sysco Reliance Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10245,"Sysco Reliance Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10246,Sysco Reliance Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10247,Sysco Reliance Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10248,Sysco Reliance Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10249,Sysco Reliance Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10250,"Sysco Reliance Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10251,"Sysco Reliance Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10252,Sysco Reliance Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10253,Sysco Reliance Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10254,"Sysco Reliance Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10255,"Sysco Reliance Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10256,"Sysco Reliance Ground Beef, 80/20",Proteins,10lb tube
+SYS-10257,"Sysco Reliance Ground Beef, 80/20",Proteins,40lb case
+SYS-10258,"Sysco Reliance Pork Loin, Boneless",Proteins,30lb case
+SYS-10259,"Sysco Reliance Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10260,"Sysco Reliance Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10261,"Sysco Reliance Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10262,"Sysco Reliance Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10263,"Sysco Reliance Turkey Breast, Sliced",Proteins,10lb case
+SYS-10264,"Sysco Reliance Bacon, Sliced",Proteins,15lb case
+SYS-10265,"Sysco Reliance Deli Ham, Sliced",Proteins,10lb case
+SYS-10266,Sysco Reliance Romaine Lettuce,Produce,case of 24 heads
+SYS-10267,Sysco Reliance Roma Tomatoes,Produce,25lb case
+SYS-10268,Sysco Reliance Yellow Onions,Produce,50lb bag
+SYS-10269,Sysco Reliance Russet Potatoes,Produce,50lb bag
+SYS-10270,"Sysco Reliance Bell Peppers, Mixed",Produce,11lb case
+SYS-10271,Sysco Reliance Bananas,Produce,40lb case
+SYS-10272,"Sysco Reliance Carrots, Whole",Produce,25lb bag
+SYS-10273,Sysco Reliance Avocados,Produce,case of 48
+SYS-10274,Sysco Reliance Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10275,Sysco Reliance All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10276,"Sysco Reliance Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10277,Sysco Reliance Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10278,Sysco Reliance Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10279,Sysco Reliance Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10280,Sysco Reliance Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10281,"Sysco Reliance Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10282,Sysco Reliance Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10283,Sysco Reliance Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10284,Sysco Reliance Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10285,"Sysco Reliance Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10286,"Sysco Reliance Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10287,Sysco Reliance Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10288,Sysco Reliance Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10289,"Sysco Reliance Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10290,"Sysco Reliance Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10291,"Sysco Reliance Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10292,Sysco Reliance Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10293,Sysco Reliance Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10294,Sysco Reliance Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10295,"House Brand Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10296,"House Brand Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10297,"House Brand Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10298,"House Brand Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10299,"House Brand Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10300,"House Brand Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10301,"House Brand Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10302,"House Brand Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10303,"House Brand Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10304,"House Brand Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10305,House Brand Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10306,House Brand Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10307,House Brand Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10308,House Brand Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10309,"House Brand Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10310,"House Brand Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10311,House Brand Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10312,House Brand Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10313,"House Brand Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10314,"House Brand Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10315,"House Brand Ground Beef, 80/20",Proteins,10lb tube
+SYS-10316,"House Brand Ground Beef, 80/20",Proteins,40lb case
+SYS-10317,"House Brand Pork Loin, Boneless",Proteins,30lb case
+SYS-10318,"House Brand Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10319,"House Brand Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10320,"House Brand Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10321,"House Brand Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10322,"House Brand Turkey Breast, Sliced",Proteins,10lb case
+SYS-10323,"House Brand Bacon, Sliced",Proteins,15lb case
+SYS-10324,"House Brand Deli Ham, Sliced",Proteins,10lb case
+SYS-10325,House Brand Romaine Lettuce,Produce,case of 24 heads
+SYS-10326,House Brand Roma Tomatoes,Produce,25lb case
+SYS-10327,House Brand Yellow Onions,Produce,50lb bag
+SYS-10328,House Brand Russet Potatoes,Produce,50lb bag
+SYS-10329,"House Brand Bell Peppers, Mixed",Produce,11lb case
+SYS-10330,House Brand Bananas,Produce,40lb case
+SYS-10331,"House Brand Carrots, Whole",Produce,25lb bag
+SYS-10332,House Brand Avocados,Produce,case of 48
+SYS-10333,House Brand Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10334,House Brand All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10335,"House Brand Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10336,House Brand Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10337,House Brand Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10338,House Brand Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10339,House Brand Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10340,"House Brand Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10341,House Brand Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10342,House Brand Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10343,House Brand Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10344,"House Brand Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10345,"House Brand Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10346,House Brand Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10347,House Brand Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10348,"House Brand Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10349,"House Brand Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10350,"House Brand Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10351,House Brand Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10352,House Brand Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10353,House Brand Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10354,"Premium Choice Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10355,"Premium Choice Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10356,"Premium Choice Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10357,"Premium Choice Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10358,"Premium Choice Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10359,"Premium Choice Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10360,"Premium Choice Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10361,"Premium Choice Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10362,"Premium Choice Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10363,"Premium Choice Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10364,Premium Choice Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10365,Premium Choice Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10366,Premium Choice Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10367,Premium Choice Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10368,"Premium Choice Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10369,"Premium Choice Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10370,Premium Choice Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10371,Premium Choice Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10372,"Premium Choice Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10373,"Premium Choice Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10374,"Premium Choice Ground Beef, 80/20",Proteins,10lb tube
+SYS-10375,"Premium Choice Ground Beef, 80/20",Proteins,40lb case
+SYS-10376,"Premium Choice Pork Loin, Boneless",Proteins,30lb case
+SYS-10377,"Premium Choice Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10378,"Premium Choice Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10379,"Premium Choice Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10380,"Premium Choice Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10381,"Premium Choice Turkey Breast, Sliced",Proteins,10lb case
+SYS-10382,"Premium Choice Bacon, Sliced",Proteins,15lb case
+SYS-10383,"Premium Choice Deli Ham, Sliced",Proteins,10lb case
+SYS-10384,Premium Choice Romaine Lettuce,Produce,case of 24 heads
+SYS-10385,Premium Choice Roma Tomatoes,Produce,25lb case
+SYS-10386,Premium Choice Yellow Onions,Produce,50lb bag
+SYS-10387,Premium Choice Russet Potatoes,Produce,50lb bag
+SYS-10388,"Premium Choice Bell Peppers, Mixed",Produce,11lb case
+SYS-10389,Premium Choice Bananas,Produce,40lb case
+SYS-10390,"Premium Choice Carrots, Whole",Produce,25lb bag
+SYS-10391,Premium Choice Avocados,Produce,case of 48
+SYS-10392,Premium Choice Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10393,Premium Choice All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10394,"Premium Choice Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10395,Premium Choice Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10396,Premium Choice Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10397,Premium Choice Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10398,Premium Choice Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10399,"Premium Choice Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10400,Premium Choice Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10401,Premium Choice Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10402,Premium Choice Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10403,"Premium Choice Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10404,"Premium Choice Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10405,Premium Choice Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10406,Premium Choice Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10407,"Premium Choice Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10408,"Premium Choice Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10409,"Premium Choice Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10410,Premium Choice Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10411,Premium Choice Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10412,Premium Choice Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10413,"Standard Grade Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10414,"Standard Grade Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10415,"Standard Grade Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10416,"Standard Grade Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10417,"Standard Grade Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10418,"Standard Grade Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10419,"Standard Grade Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10420,"Standard Grade Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10421,"Standard Grade Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10422,"Standard Grade Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10423,Standard Grade Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10424,Standard Grade Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10425,Standard Grade Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10426,Standard Grade Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10427,"Standard Grade Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10428,"Standard Grade Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10429,Standard Grade Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10430,Standard Grade Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10431,"Standard Grade Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10432,"Standard Grade Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10433,"Standard Grade Ground Beef, 80/20",Proteins,10lb tube
+SYS-10434,"Standard Grade Ground Beef, 80/20",Proteins,40lb case
+SYS-10435,"Standard Grade Pork Loin, Boneless",Proteins,30lb case
+SYS-10436,"Standard Grade Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10437,"Standard Grade Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10438,"Standard Grade Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10439,"Standard Grade Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10440,"Standard Grade Turkey Breast, Sliced",Proteins,10lb case
+SYS-10441,"Standard Grade Bacon, Sliced",Proteins,15lb case
+SYS-10442,"Standard Grade Deli Ham, Sliced",Proteins,10lb case
+SYS-10443,Standard Grade Romaine Lettuce,Produce,case of 24 heads
+SYS-10444,Standard Grade Roma Tomatoes,Produce,25lb case
+SYS-10445,Standard Grade Yellow Onions,Produce,50lb bag
+SYS-10446,Standard Grade Russet Potatoes,Produce,50lb bag
+SYS-10447,"Standard Grade Bell Peppers, Mixed",Produce,11lb case
+SYS-10448,Standard Grade Bananas,Produce,40lb case
+SYS-10449,"Standard Grade Carrots, Whole",Produce,25lb bag
+SYS-10450,Standard Grade Avocados,Produce,case of 48
+SYS-10451,Standard Grade Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10452,Standard Grade All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10453,"Standard Grade Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10454,Standard Grade Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10455,Standard Grade Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10456,Standard Grade Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10457,Standard Grade Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10458,"Standard Grade Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10459,Standard Grade Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10460,Standard Grade Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10461,Standard Grade Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10462,"Standard Grade Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10463,"Standard Grade Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10464,Standard Grade Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10465,Standard Grade Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10466,"Standard Grade Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10467,"Standard Grade Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10468,"Standard Grade Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10469,Standard Grade Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10470,Standard Grade Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10471,Standard Grade Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10472,"Value Select Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10473,"Value Select Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10474,"Value Select Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10475,"Value Select Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10476,"Value Select Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10477,"Value Select Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10478,"Value Select Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10479,"Value Select Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10480,"Value Select Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10481,"Value Select Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10482,Value Select Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10483,Value Select Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10484,Value Select Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10485,Value Select Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10486,"Value Select Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10487,"Value Select Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10488,Value Select Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10489,Value Select Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10490,"Value Select Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10491,"Value Select Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10492,"Value Select Ground Beef, 80/20",Proteins,10lb tube
+SYS-10493,"Value Select Ground Beef, 80/20",Proteins,40lb case
+SYS-10494,"Value Select Pork Loin, Boneless",Proteins,30lb case
+SYS-10495,"Value Select Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10496,"Value Select Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10497,"Value Select Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10498,"Value Select Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10499,"Value Select Turkey Breast, Sliced",Proteins,10lb case
+SYS-10500,"Value Select Bacon, Sliced",Proteins,15lb case
+SYS-10501,"Value Select Deli Ham, Sliced",Proteins,10lb case
+SYS-10502,Value Select Romaine Lettuce,Produce,case of 24 heads
+SYS-10503,Value Select Roma Tomatoes,Produce,25lb case
+SYS-10504,Value Select Yellow Onions,Produce,50lb bag
+SYS-10505,Value Select Russet Potatoes,Produce,50lb bag
+SYS-10506,"Value Select Bell Peppers, Mixed",Produce,11lb case
+SYS-10507,Value Select Bananas,Produce,40lb case
+SYS-10508,"Value Select Carrots, Whole",Produce,25lb bag
+SYS-10509,Value Select Avocados,Produce,case of 48
+SYS-10510,Value Select Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10511,Value Select All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10512,"Value Select Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10513,Value Select Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10514,Value Select Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10515,Value Select Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10516,Value Select Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10517,"Value Select Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10518,Value Select Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10519,Value Select Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10520,Value Select Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10521,"Value Select Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10522,"Value Select Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10523,Value Select Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10524,Value Select Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10525,"Value Select Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10526,"Value Select Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10527,"Value Select Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10528,Value Select Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10529,Value Select Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10530,Value Select Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10531,"Chef's Reserve Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10532,"Chef's Reserve Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10533,"Chef's Reserve Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10534,"Chef's Reserve Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10535,"Chef's Reserve Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10536,"Chef's Reserve Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10537,"Chef's Reserve Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10538,"Chef's Reserve Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10539,"Chef's Reserve Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10540,"Chef's Reserve Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
+SYS-10541,Chef's Reserve Plastic Cutlery Set,Disposables & Paper Goods,case of 1000
+SYS-10542,Chef's Reserve Plastic Cutlery Set,Disposables & Paper Goods,case of 500
+SYS-10543,Chef's Reserve Food Storage Containers,Disposables & Paper Goods,"32oz, case of 150"
+SYS-10544,Chef's Reserve Food Storage Containers,Disposables & Paper Goods,"16oz, case of 250"
+SYS-10545,"Chef's Reserve Trash Liners, Heavy Duty",Disposables & Paper Goods,"55gal, case of 100"
+SYS-10546,"Chef's Reserve Trash Liners, Heavy Duty",Disposables & Paper Goods,"33gal, case of 150"
+SYS-10547,Chef's Reserve Paper Towel Rolls,Disposables & Paper Goods,case of 30
+SYS-10548,Chef's Reserve Paper Towel Rolls,Disposables & Paper Goods,case of 12
+SYS-10549,"Chef's Reserve Chicken Breast, Boneless",Proteins,"40lb case, fresh"
+SYS-10550,"Chef's Reserve Chicken Breast, Boneless",Proteins,"40lb case, frozen"
+SYS-10551,"Chef's Reserve Ground Beef, 80/20",Proteins,10lb tube
+SYS-10552,"Chef's Reserve Ground Beef, 80/20",Proteins,40lb case
+SYS-10553,"Chef's Reserve Pork Loin, Boneless",Proteins,30lb case
+SYS-10554,"Chef's Reserve Salmon Fillet, Atlantic",Proteins,"10lb case, fresh"
+SYS-10555,"Chef's Reserve Salmon Fillet, Atlantic",Proteins,"20lb case, frozen"
+SYS-10556,"Chef's Reserve Shrimp, 21/25 count",Proteins,5lb bag frozen
+SYS-10557,"Chef's Reserve Shrimp, 21/25 count",Proteins,20lb case frozen
+SYS-10558,"Chef's Reserve Turkey Breast, Sliced",Proteins,10lb case
+SYS-10559,"Chef's Reserve Bacon, Sliced",Proteins,15lb case
+SYS-10560,"Chef's Reserve Deli Ham, Sliced",Proteins,10lb case
+SYS-10561,Chef's Reserve Romaine Lettuce,Produce,case of 24 heads
+SYS-10562,Chef's Reserve Roma Tomatoes,Produce,25lb case
+SYS-10563,Chef's Reserve Yellow Onions,Produce,50lb bag
+SYS-10564,Chef's Reserve Russet Potatoes,Produce,50lb bag
+SYS-10565,"Chef's Reserve Bell Peppers, Mixed",Produce,11lb case
+SYS-10566,Chef's Reserve Bananas,Produce,40lb case
+SYS-10567,"Chef's Reserve Carrots, Whole",Produce,25lb bag
+SYS-10568,Chef's Reserve Avocados,Produce,case of 48
+SYS-10569,Chef's Reserve Long Grain Rice,Dry Goods & Pantry,50lb bag
+SYS-10570,Chef's Reserve All-Purpose Flour,Dry Goods & Pantry,50lb bag
+SYS-10571,"Chef's Reserve Pasta, Penne",Dry Goods & Pantry,20lb case
+SYS-10572,Chef's Reserve Dried Black Beans,Dry Goods & Pantry,25lb bag
+SYS-10573,Chef's Reserve Vegetable Oil,Dry Goods & Pantry,35lb jug
+SYS-10574,Chef's Reserve Vegetable Oil,Dry Goods & Pantry,6x1gal case
+SYS-10575,Chef's Reserve Granulated Sugar,Dry Goods & Pantry,50lb bag
+SYS-10576,"Chef's Reserve Coffee, Ground Regular",Dry Goods & Pantry,"case of 42, 2.5oz"
+SYS-10577,Chef's Reserve Ketchup Packets,Dry Goods & Pantry,case of 1000
+SYS-10578,Chef's Reserve Shredded Mozzarella,Dairy & Refrigerated,6x5lb case
+SYS-10579,Chef's Reserve Whole Milk,Dairy & Refrigerated,6x1gal case
+SYS-10580,"Chef's Reserve Butter, Unsalted",Dairy & Refrigerated,36x1lb case
+SYS-10581,"Chef's Reserve Eggs, Large Grade A",Dairy & Refrigerated,15dz case
+SYS-10582,Chef's Reserve Cream Cheese,Dairy & Refrigerated,24x3lb case
+SYS-10583,Chef's Reserve Sour Cream,Dairy & Refrigerated,4x5lb case
+SYS-10584,"Chef's Reserve Sheet Pans, Aluminum",Kitchen Equipment & Smallwares,"18x26in, pack of 12"
+SYS-10585,"Chef's Reserve Mixing Bowls, Stainless",Kitchen Equipment & Smallwares,set of 8
+SYS-10586,"Chef's Reserve Cutting Boards, HDPE",Kitchen Equipment & Smallwares,"18x24in, pack of 6"
+SYS-10587,Chef's Reserve Chef Knife Set,Kitchen Equipment & Smallwares,set of 5
+SYS-10588,Chef's Reserve Food Storage Racks,Kitchen Equipment & Smallwares,"6-shelf, wire"
+SYS-10589,Chef's Reserve Insulated Food Carriers,Kitchen Equipment & Smallwares,full pan size
+SYS-10590,"Sysco Classic Tissue Paper, 2-ply",Disposables & Paper Goods,case of 24
+SYS-10591,"Sysco Classic Tissue Paper, 2-ply",Disposables & Paper Goods,case of 36
+SYS-10592,"Sysco Classic Tissue Paper, 2-ply",Disposables & Paper Goods,case of 48
+SYS-10593,"Sysco Classic Napkins, White",Disposables & Paper Goods,pack of 500
+SYS-10594,"Sysco Classic Napkins, White",Disposables & Paper Goods,pack of 1000
+SYS-10595,"Sysco Classic Napkins, White",Disposables & Paper Goods,case of 6000
+SYS-10596,"Sysco Classic Disposable Cups, 12oz",Disposables & Paper Goods,sleeve of 50
+SYS-10597,"Sysco Classic Disposable Cups, 12oz",Disposables & Paper Goods,case of 1000
+SYS-10598,"Sysco Classic Foil Wrap, Heavy Duty",Disposables & Paper Goods,18in x 500ft roll
+SYS-10599,"Sysco Classic Foil Wrap, Heavy Duty",Disposables & Paper Goods,12in x 1000ft roll
