@@ -83,6 +83,30 @@ h3 {
   opacity: 0.72;
 }
 
+.secondary-action {
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #d9e0e8;
+  border-radius: 8px;
+  color: #17202c;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 18px;
+}
+
+.secondary-action:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.header-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
 .spin {
   animation: spin 1s linear infinite;
 }
@@ -384,6 +408,97 @@ td small {
   }
 }
 
+.memory-banner {
+  align-items: center;
+  background: #fef9e7;
+  border: 1px solid #f5e0a1;
+  border-radius: 8px;
+  color: #7d5c00;
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding: 12px;
+  font-size: 13px;
+}
+
+.approval-gate {
+  background: #f7faf9;
+  border: 1px solid #d7e4df;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  padding: 14px;
+}
+
+.approval-input-row {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+}
+
+.reviewer-input {
+  border: 1px solid #d9e0e8;
+  border-radius: 6px;
+  flex: 1;
+  min-height: 40px;
+  padding: 0 12px;
+}
+
+.approve-button {
+  align-items: center;
+  background: #0f6b63;
+  border: 0;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 6px;
+  min-height: 40px;
+  padding: 0 16px;
+}
+
+.approve-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.approval-confirm {
+  align-items: center;
+  background: #e9f6ef;
+  border: 1px solid #a8d5ba;
+  border-radius: 6px;
+  color: #12613c;
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  padding: 10px 12px;
+}
+
+.approval-note {
+  color: #60758a;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.status-badge {
+  align-items: center;
+  border-radius: 999px;
+  display: inline-flex;
+  font-size: 11px;
+  font-weight: 700;
+  gap: 5px;
+  padding: 3px 8px;
+}
+
+.status-badge.pending_approval {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.status-badge.approved {
+  background: #d4edda;
+  color: #155724;
+}
+
 @media (max-width: 620px) {
   .app-shell {
     padding: 14px;
@@ -395,5 +510,10 @@ td small {
 
   .metric-card strong {
     font-size: 24px;
+  }
+
+  .approval-input-row {
+    flex-direction: column;
+    align-items: stretch;
   }
 }

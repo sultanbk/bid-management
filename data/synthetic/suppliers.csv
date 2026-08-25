@@ -1,25 +1,36 @@
 name,category,reliability_score,contact_email
-Meridian Foods,Disposables & Paper Goods,0.82,sales@meridianfoods.com
-Crestline Distributors,Disposables & Paper Goods,0.56,sales@crestlinedistributors.com
-Harborview Supply Co.,Disposables & Paper Goods,0.67,sales@harborviewsupplyco.com
-Northgate Wholesale,Disposables & Paper Goods,0.65,sales@northgatewholesale.com
-Bluepoint Provisions,Proteins,0.87,sales@bluepointprovisions.com
-Summit Trading Co.,Proteins,0.84,sales@summittradingco.com
-Fairfield Foods,Proteins,0.93,sales@fairfieldfoods.com
-Ridgeway Distributors,Proteins,0.59,sales@ridgewaydistributors.com
-Coastal Supply Co.,Produce,0.73,sales@coastalsupplyco.com
-Prairie Wholesale,Produce,0.56,sales@prairiewholesale.com
-Ironwood Provisions,Produce,0.64,sales@ironwoodprovisions.com
-Silverline Trading Co.,Produce,0.77,sales@silverlinetradingco.com
-Golden State Foods,Dry Goods & Pantry,0.56,sales@goldenstatefoods.com
-Riverbend Distributors,Dry Goods & Pantry,0.64,sales@riverbenddistributors.com
-Cedar Grove Supply Co.,Dry Goods & Pantry,0.83,sales@cedargrovesupplyco.com
-Union Wholesale,Dry Goods & Pantry,0.78,sales@unionwholesale.com
-Continental Provisions,Dairy & Refrigerated,0.64,sales@continentalprovisions.com
-Anchor Trading Co.,Dairy & Refrigerated,0.8,sales@anchortradingco.com
-Vantage Foods,Dairy & Refrigerated,0.9,sales@vantagefoods.com
-Cornerstone Distributors,Dairy & Refrigerated,0.55,sales@cornerstonedistributors.com
-Redwood Supply Co.,Kitchen Equipment & Smallwares,0.9,sales@redwoodsupplyco.com
-Highline Wholesale,Kitchen Equipment & Smallwares,0.85,sales@highlinewholesale.com
-Sterling Provisions,Kitchen Equipment & Smallwares,0.7,sales@sterlingprovisions.com
-Pacific Crest Trading Co.,Kitchen Equipment & Smallwares,0.62,sales@pacificcresttradingco.com
+Sysco Supplies Direct,paper-disposables,0.95,suppliesdirect@sysco.com
+Sysco Disposables Co,paper-disposables,0.88,disposablescorp@sysco.com
+Premium Paper Supply,disposables-cutlery,0.92,orders@premiumpaper.com
+Quick Supply Co,paper-disposables,0.85,quick@supplyco.com
+Fresh Proteins International,proteins,0.97,freshproteins@fpintl.com
+American Meat Packers,proteins,0.93,orders@americanmeatpackers.com
+Prime Cuts Inc,proteins,0.89,sales@primecutsinc.com
+Valley Fresh Produce,produce,0.94,valleyfresh@vfp.com
+Green Harvest Farms,produce,0.91,harvest@greenfarms.com
+Pacific Produce Partners,produce,0.87,info@pacificproduce.com
+Golden State Produce,produce,0.83,golden@goldenstateproduce.com
+Mega Food Distributors,dry-goods,0.96,orders@megadist.com
+Wholesale Pantry Supply,dry-goods,0.90,pantry@wholesalepantry.com
+Continental Food Service,dry-goods,0.88,continental@cfs.com
+National Dry Goods Co,dry-goods,0.86,ndg@nationaldrygoods.com
+Chef Choice Equipment,kitchen-equipment,0.98,orders@chefchoice.com
+Restaurant Supply Direct,kitchen-equipment,0.94,supply@restaurantsdirect.com
+Pro Kitchen Outfitters,kitchen-equipment,0.91,outfitters@prokitchen.com
+BioClean Sanitation,cleaning,0.93,clean@bioclean.com
+FreshStart Supplies,cleaning,0.90,fresh@freshstartsupplies.com
+GreenClean Eco Supply,cleaning,0.87,eco@greenclean.com
+SafeGuard Products,cleaning,0.85,safety@safeguard.com
+PackRight Solutions,packaging,0.92,orders@packright.com
+EcoPak Industries,packaging,0.89,ecopak@ecopak.com
+ClearPack Supply,packaging,0.86,clearpack@clearsupply.com
+Coffee Bean Direct,beverages,0.95,orders@coffeebeandirect.com
+Brew Masters Supply,beverages,0.90,brew@brewmasters.com
+Chai Supply Co,beverages,0.88,chai@chaisupply.com
+Uniform Express,uniforms,0.93,uniforms@uniflexpress.com
+Safety First Products,uniforms,0.91,safety@safetyfirstproducts.com
+Chef Gear Direct,uniforms,0.89,chefgear@chefdirect.com
+Lab Supply Co,safety-equipment,0.94,labsupply@labsupply.com
+MedPro Safety,safety-equipment,0.92,medpro@medsafety.com
+Baking Pro Supplies,baking,0.96,bakingpro@bakingsupplies.com
+KitchenArt Supply,beverages,0.93,kitchenart@kitchenartsupply.com

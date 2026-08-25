@@ -84,28 +84,32 @@ every past conversation.
 > and blockers only, not a full log. Older entries can move to a
 > `CHANGELOG` section below if this gets long.
 
-**Last updated:** `2026-08-12` by `Codex session`
+**Last updated:** `2026-08-24` by `Claude Code session`
 
-**Current week:** `Week 1 / foundation`
+**Current week:** `Week 2-3 complete` (Item Matching + Outreach Agent + Institutional Memory + Approval Gate + Dashboard all working)
 
 **Status:**
-- [ ] Day 0 prerequisites complete
-- [ ] Week 1 complete - local FastAPI demo backend exists; Postgres,
-      frontend, and real Claude/Synapt calls are not complete yet
-- [ ] Week 2 complete
-- [ ] Week 3 complete
-- [ ] Week 4 complete
-- [ ] Week 5 complete
-- [ ] Week 6 complete
+- [x] Day 0 prerequisites complete (architecture, manifest, synthetic data)
+- [x] Week 1 complete — architecture finalized, FastAPI skeleton, synthetic data generated, demo script locked
+- [x] Week 2 complete — Item Matching Service with pgvector + optional Claude re-rank (matching_v2.py), embeddings service, CSV fallback
+- [x] Week 3 complete — Outreach Agent (outreach_v2.py) with Claude drafting, supplier selection, Agent Hub governance rules (drafts only, never sends)
+- [x] Week 3-4 overlap complete — Institutional Memory (memory_v2.py) with Context Substrate-shaped service, narrative storage, Bid A→B reuse working
+- [x] Week 4 complete — Human Approval Gate UI in frontend (reviewer name required, explicit approve endpoint), full pipeline wired end-to-end
+- [x] Dashboard complete — React dashboard shows stages, matched items, outreach drafts, Bid A vs Bid B comparison, approval UI
+- [ ] Week 5 — Internal review, polish, rehearsal
+- [ ] Week 6 — Final rehearsal + Finale (Sep 23)
 
 **Active blockers:**
-- Synapt Agent Hub / Context Substrate sandbox access is not recorded as confirmed.
-- Agent Hub catalog search and exact manifest schema are not recorded as complete.
+- Synapt Agent Hub / Context Substrate sandbox access not confirmed (using local simulations)
+- Agent Hub catalog search and exact manifest schema pending sandbox access
+- Real LLM embeddings not yet integrated (deterministic hash fallback in use)
 - `D:\bid-management` is inside a parent Git repository but is not its own repo; repo-wide `git status` is noisy and slow.
-- Frontend, database migrations, pgvector embeddings, and real LLM/Synapt integrations are not built yet.
 
 **Next session should start with:**
-- Add the React dashboard shell that calls `POST /pipeline/run-demo/both` and visualizes stages, matched items, outreach drafts, and the Bid A vs Bid B memory savings.
+- Replace deterministic hash embeddings with real `text-embedding-3-small` or Anthropic embeddings in `embedding_service.py`
+- When Context Substrate sandbox available: swap `memory_v2.py` local simulation for real client integration
+- Polish approval UI: add mock inbox view, rejection flow, audit trail display
+- Add internal review prep: demo timing script, backup video recording plan
 
 ### Change Log
 

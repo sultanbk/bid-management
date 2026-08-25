@@ -2,97 +2,97 @@
   "bid_id": "BID-A-001",
   "customer_name": "Riverside Regional Hospital",
   "customer_segment": "hospital",
-  "raw_document_note": "Simulated extraction from a messy customer PDF/Excel submission.",
+  "raw_document_note": "Scanned PDF from Riverside Regional Hospital's dietary services department. Items extracted via OCR; some descriptions are informal or abbreviated as written by the kitchen staff.",
   "items": [
     {
-      "raw_description": "white napkins, 1000ct",
-      "quantity": 20,
-      "category_hint": "Disposables & Paper Goods"
+      "raw_description": "2-ply dinner napkins white case 24",
+      "quantity": 40,
+      "category_hint": "paper-disposables"
     },
     {
-      "raw_description": "12oz disposable cups",
-      "quantity": 15,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "trash bags, 55 gallon",
+      "raw_description": "heavy duty plastic forks white bulk",
       "quantity": 25,
-      "category_hint": "Disposables & Paper Goods"
+      "category_hint": "disposables-cutlery"
     },
     {
-      "raw_description": "boneless skinless chicken breast, fresh",
+      "raw_description": "fresh chicken breast boneless skinless 6oz portions",
+      "quantity": 120,
+      "category_hint": "proteins"
+    },
+    {
+      "raw_description": "ground beef 80/20 fresh chubs",
       "quantity": 60,
-      "category_hint": "Proteins"
+      "category_hint": "proteins"
     },
     {
-      "raw_description": "atlantic salmon fillets",
-      "quantity": 15,
-      "category_hint": "Proteins"
+      "raw_description": "atlantic salmon fillets frozen 6oz skinless",
+      "quantity": 80,
+      "category_hint": "proteins"
     },
     {
-      "raw_description": "romaine lettuce heads",
+      "raw_description": "romaine lettuce hearts 3-leaf case",
       "quantity": 30,
-      "category_hint": "Produce"
+      "category_hint": "produce"
     },
     {
-      "raw_description": "roma tomatoes, case",
-      "quantity": 25,
-      "category_hint": "Produce"
-    },
-    {
-      "raw_description": "yellow onions, 50lb",
-      "quantity": 20,
-      "category_hint": "Produce"
-    },
-    {
-      "raw_description": "russet potatoes bulk",
-      "quantity": 35,
-      "category_hint": "Produce"
-    },
-    {
-      "raw_description": "long grain white rice, 50lb",
-      "quantity": 20,
-      "category_hint": "Dry Goods & Pantry"
-    },
-    {
-      "raw_description": "all purpose flour",
+      "raw_description": "yellow onions jumbo bag",
       "quantity": 15,
-      "category_hint": "Dry Goods & Pantry"
+      "category_hint": "produce"
     },
     {
-      "raw_description": "penne pasta, dry",
-      "quantity": 18,
-      "category_hint": "Dry Goods & Pantry"
+      "raw_description": "russet potatoes baking grade 50lb",
+      "quantity": 20,
+      "category_hint": "produce"
     },
     {
-      "raw_description": "vegetable cooking oil, jug",
-      "quantity": 12,
-      "category_hint": "Dry Goods & Pantry"
-    },
-    {
-      "raw_description": "shredded mozzarella cheese",
-      "quantity": 25,
-      "category_hint": "Dairy & Refrigerated"
-    },
-    {
-      "raw_description": "large grade A eggs",
-      "quantity": 30,
-      "category_hint": "Dairy & Refrigerated"
-    },
-    {
-      "raw_description": "whole milk, gallon",
-      "quantity": 22,
-      "category_hint": "Dairy & Refrigerated"
-    },
-    {
-      "raw_description": "aluminum sheet pans",
+      "raw_description": "long grain rice parboiled bulk",
       "quantity": 10,
-      "category_hint": "Kitchen Equipment & Smallwares"
+      "category_hint": "dry-goods"
     },
     {
-      "raw_description": "stainless mixing bowl set",
-      "quantity": 4,
-      "category_hint": "Kitchen Equipment & Smallwares"
+      "raw_description": "grade a large eggs 15 dz case",
+      "quantity": 12,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "whole milk gallon case of six",
+      "quantity": 25,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "unsalted butter one pound prints",
+      "quantity": 18,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "#10 can diced tomatoes",
+      "quantity": 24,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "extra virgin olive oil gallon tins",
+      "quantity": 8,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "stainless steel hotel pans full size 2 inch deep",
+      "quantity": 36,
+      "category_hint": "kitchen-equipment"
+    },
+    {
+      "raw_description": "full size sheet pans aluminum 18x26",
+      "quantity": 48,
+      "category_hint": "kitchen-equipment"
+    },
+    {
+      "raw_description": "quaternary sanitizer NSF registered gallons",
+      "quantity": 20,
+      "category_hint": "cleaning"
+    },
+    {
+      "raw_description": "nitrile disposable gloves large powder free",
+      "quantity": 100,
+      "category_hint": "uniforms"
     }
   ]
 }

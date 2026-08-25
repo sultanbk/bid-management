@@ -2,97 +2,117 @@
   "bid_id": "BID-B-002",
   "customer_name": "Lakeside Medical Center",
   "customer_segment": "hospital",
-  "raw_document_note": "Simulated extraction from a messy customer PDF/Excel submission.",
+  "raw_document_note": "Excel export from Lakeside Medical Center's purchasing system. Column headers inconsistent; item descriptions mix internal codes with plain language. Shares most of its core menu with Riverside's dietary program.",
   "items": [
     {
-      "raw_description": "2-ply tissue paper, bulk case",
-      "quantity": 40,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "white napkins, 1000ct",
-      "quantity": 20,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "12oz disposable cups",
-      "quantity": 15,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "heavy duty foil roll",
-      "quantity": 10,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "plastic forks/spoons/knives combo",
-      "quantity": 30,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "trash bags, 55 gallon",
-      "quantity": 25,
-      "category_hint": "Disposables & Paper Goods"
-    },
-    {
-      "raw_description": "boneless skinless chicken breast, fresh",
+      "raw_description": "2-ply dinner napkins white case 24",
       "quantity": 60,
-      "category_hint": "Proteins"
+      "category_hint": "paper-disposables"
     },
     {
-      "raw_description": "80/20 ground beef",
-      "quantity": 45,
-      "category_hint": "Proteins"
-    },
-    {
-      "raw_description": "sliced bacon, food service",
-      "quantity": 20,
-      "category_hint": "Proteins"
-    },
-    {
-      "raw_description": "atlantic salmon fillets",
-      "quantity": 15,
-      "category_hint": "Proteins"
-    },
-    {
-      "raw_description": "romaine lettuce heads",
+      "raw_description": "heavy duty plastic forks white bulk",
       "quantity": 30,
-      "category_hint": "Produce"
+      "category_hint": "disposables-cutlery"
     },
     {
-      "raw_description": "roma tomatoes, case",
+      "raw_description": "fresh chicken breast boneless skinless 6oz portions",
+      "quantity": 150,
+      "category_hint": "proteins"
+    },
+    {
+      "raw_description": "ground beef 80/20 fresh chubs",
+      "quantity": 45,
+      "category_hint": "proteins"
+    },
+    {
+      "raw_description": "atlantic salmon fillets frozen 6oz skinless",
+      "quantity": 90,
+      "category_hint": "proteins"
+    },
+    {
+      "raw_description": "romaine lettuce hearts 3-leaf case",
       "quantity": 25,
-      "category_hint": "Produce"
+      "category_hint": "produce"
     },
     {
-      "raw_description": "russet potatoes bulk",
-      "quantity": 35,
-      "category_hint": "Produce"
-    },
-    {
-      "raw_description": "penne pasta, dry",
-      "quantity": 18,
-      "category_hint": "Dry Goods & Pantry"
-    },
-    {
-      "raw_description": "vegetable cooking oil, jug",
+      "raw_description": "yellow onions jumbo bag",
       "quantity": 12,
-      "category_hint": "Dry Goods & Pantry"
+      "category_hint": "produce"
     },
     {
-      "raw_description": "whole milk, gallon",
+      "raw_description": "russet potatoes baking grade 50lb",
+      "quantity": 18,
+      "category_hint": "produce"
+    },
+    {
+      "raw_description": "long grain rice parboiled bulk",
+      "quantity": 8,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "grade a large eggs 15 dz case",
+      "quantity": 15,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "whole milk gallon case of six",
+      "quantity": 30,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "unsalted butter one pound prints",
       "quantity": 22,
-      "category_hint": "Dairy & Refrigerated"
+      "category_hint": "dry-goods"
     },
     {
-      "raw_description": "aluminum sheet pans",
+      "raw_description": "#10 can diced tomatoes",
+      "quantity": 20,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "extra virgin olive oil gallon tins",
       "quantity": 10,
-      "category_hint": "Kitchen Equipment & Smallwares"
+      "category_hint": "dry-goods"
     },
     {
-      "raw_description": "HDPE cutting boards",
-      "quantity": 6,
-      "category_hint": "Kitchen Equipment & Smallwares"
+      "raw_description": "stainless steel hotel pans full size 2 inch deep",
+      "quantity": 24,
+      "category_hint": "kitchen-equipment"
+    },
+    {
+      "raw_description": "full size sheet pans aluminum 18x26",
+      "quantity": 40,
+      "category_hint": "kitchen-equipment"
+    },
+    {
+      "raw_description": "quaternary sanitizer NSF registered gallons",
+      "quantity": 15,
+      "category_hint": "cleaning"
+    },
+    {
+      "raw_description": "nitrile disposable gloves large powder free",
+      "quantity": 80,
+      "category_hint": "uniforms"
+    },
+    {
+      "raw_description": "turkey breast boneless fresh roast-ready",
+      "quantity": 35,
+      "category_hint": "proteins"
+    },
+    {
+      "raw_description": "baby spinach triple washed one pound bags",
+      "quantity": 28,
+      "category_hint": "produce"
+    },
+    {
+      "raw_description": "shredded mozzarella low moisture part skim",
+      "quantity": 16,
+      "category_hint": "dry-goods"
+    },
+    {
+      "raw_description": "instant read digital food thermometer probe style",
+      "quantity": 14,
+      "category_hint": "safety-equipment"
     }
   ]
 }

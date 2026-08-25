@@ -29,6 +29,9 @@ function App() {
   const [selectedBidIndex, setSelectedBidIndex] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
   const [error, setError] = useState("");
+  const [reviewerName, setReviewerName] = useState("");
+  const [approvalStatus, setApprovalStatus] = useState(null);
+  const [isApproving, setIsApproving] = useState(false);
 
   const selectedRun = demo?.runs?.[selectedBidIndex] ?? null;
   const comparison = useMemo(() => {
@@ -46,8 +49,9 @@ function App() {
   async function runDemo() {
     setIsRunning(true);
     setError("");
+    setApprovalStatus(null);
     try {
-      const response = await fetch(`${API_BASE}/pipeline/run-demo/both`, {
+      const response = await fetch(`${API_BASE}/pipeline/v2/run-demo/both`, {
         method: "POST",
       });
       if (!response.ok) {
@@ -65,6 +69,43 @@ function App() {
     }
   }
 
+  async function resetMemory() {
+    try {
+      await fetch(`${API_BASE}/pipeline/v2/reset-memory`, { method: "POST" });
+      setDemo(null);
+      setApprovalStatus(null);
+    } catch (err) {
+      setError("Could not reset memory. Is the backend running?");
+    }
+  }
+
+  async function approveOutreach() {
+    if (!selectedRun || !reviewerName.trim()) {
+      setError("Enter a reviewer name before approving.");
+      return;
+    }
+    setIsApproving(true);
+    setError("");
+    try {
+      const response = await fetch(`${API_BASE}/pipeline/v2/approve/${selectedRun.bid_id}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ reviewer: reviewerName.trim() }),
+      });
+      if (!response.ok) {
+        throw new Error(`Approval failed: ${response.status}`);
+      }
+      const result = await response.json();
+      setApprovalStatus(result);
+    } catch (err) {
+      setError(`Approval error: ${err.message}`);
+    } finally {
+      setIsApproving(false);
+    }
+  }
+
+  const pendingCount = selectedRun?.outreach.filter((d) => d.status === "pending_approval").length ?? 0;
+
   return (
     <main className="app-shell">
       <header className="topbar">
@@ -72,10 +113,15 @@ function App() {
           <p className="eyebrow">Sysco BidCoE demo</p>
           <h1>Intelligent Supplier Collaboration Portal</h1>
         </div>
-        <button className="primary-action" onClick={runDemo} disabled={isRunning}>
-          <RefreshCw size={18} className={isRunning ? "spin" : ""} />
-          {isRunning ? "Running" : "Run Bid A/B Demo"}
-        </button>
+        <div className="header-actions">
+          <button className="secondary-action" onClick={resetMemory} disabled={isRunning}>
+            Reset Memory
+          </button>
+          <button className="primary-action" onClick={runDemo} disabled={isRunning}>
+            <RefreshCw size={18} className={isRunning ? "spin" : ""} />
+            {isRunning ? "Running" : "Run Bid A/B Demo"}
+          </button>
+        </div>
       </header>
 
       {error && <div className="error-banner">{error}</div>}
@@ -116,7 +162,19 @@ function App() {
         </aside>
 
         <section className="main-panel">
-          {selectedRun ? <RunDetails run={selectedRun} /> : <IntroPanel />}
+          {selectedRun ? (
+            <RunDetails
+              run={selectedRun}
+              reviewerName={reviewerName}
+              setReviewerName={setReviewerName}
+              onApprove={approveOutreach}
+              isApproving={isApproving}
+              approvalStatus={approvalStatus}
+              pendingCount={pendingCount}
+            />
+          ) : (
+            <IntroPanel />
+          )}
         </section>
       </section>
     </main>
@@ -139,12 +197,13 @@ function IntroPanel() {
       <p>
         Run Bid A and Bid B back-to-back. Bid A establishes the memory record;
         Bid B reuses overlapping matches so the team can see the learning loop.
+        Then approve the outreach to simulate sending to suppliers.
       </p>
     </div>
   );
 }
 
-function RunDetails({ run }) {
+function RunDetails({ run, reviewerName, setReviewerName, onApprove, isApproving, approvalStatus, pendingCount }) {
   const reused = run.metrics.memory_reused_items;
 
   return (
@@ -171,6 +230,16 @@ function RunDetails({ run }) {
           );
         })}
       </div>
+
+      {run.memory_hit?.found && (
+        <div className="memory-banner">
+          <Sparkles size={16} />
+          <span>
+            Memory hit: {run.memory_hit.overlap_count} items reused from {run.memory_hit.source_bid_id}
+            {" "}({Math.round(run.memory_hit.overlap_ratio * 100)}% overlap)
+          </span>
+        </div>
+      )}
 
       <div className="content-grid">
         <section className="data-panel">
@@ -215,8 +284,40 @@ function RunDetails({ run }) {
         <section className="data-panel">
           <div className="panel-heading">
             <h3>Outreach Drafts</h3>
-            <span>{run.outreach.length} approved</span>
+            <span>{run.outreach.length} pending approval</span>
           </div>
+
+          {/* Human Approval Gate UI */}
+          <div className="approval-gate">
+            <div className="approval-input-row">
+              <input
+                type="text"
+                placeholder="Reviewer name (human, not the agent)"
+                value={reviewerName}
+                onChange={(e) => setReviewerName(e.target.value)}
+                className="reviewer-input"
+              />
+              <button
+                className="approve-button"
+                onClick={onApprove}
+                disabled={isApproving || pendingCount === 0}
+              >
+                <ShieldCheck size={16} />
+                {isApproving ? "Approving..." : `Approve & Send (${pendingCount})`}
+              </button>
+            </div>
+            {approvalStatus && (
+              <div className="approval-confirm">
+                <CheckCircle2 size={14} />
+                Approved by <strong>{approvalStatus.approved_by}</strong> — {approvalStatus.note}
+              </div>
+            )}
+            <p className="approval-note">
+              Governance: the Outreach Agent drafts but never sends. A separate human reviewer
+              must approve before anything goes out — this is the Agent Hub autonomy boundary.
+            </p>
+          </div>
+
           <div className="draft-list">
             {run.outreach.slice(0, 7).map((draft) => (
               <article className="draft-item" key={`${draft.raw_description}-${draft.supplier_email}`}>
@@ -225,8 +326,8 @@ function RunDetails({ run }) {
                   <small>{draft.supplier_email}</small>
                 </div>
                 <p>{draft.drafted_message}</p>
-                <span className="approved-badge">
-                  <ShieldCheck size={14} /> {draft.status}
+                <span className={`status-badge ${draft.status}`}>
+                  {draft.status === "pending_approval" ? "Pending approval" : draft.status}
                 </span>
               </article>
             ))}
